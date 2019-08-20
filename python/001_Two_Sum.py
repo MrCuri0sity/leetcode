@@ -63,4 +63,4 @@ class Solution(object):
 if __name__ == '__main__':
     # begin
     s = Solution()
-    print s.twoSum([3, 2, 4], 6)
+    print(s.twoSum([3, 2, 4], 6))
